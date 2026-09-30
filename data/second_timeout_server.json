@@ -1,0 +1,7 @@
+{
+    "Interval": "2s",
+    "MinTimeout": "5s",
+    "MaxTimeout": "7s",
+    "Quorum": 2,
+    "Servers": [ "localhost:1130", "localhost:1131", "localhost:1132" ]
+}

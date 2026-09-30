@@ -1,0 +1,9 @@
+cmd/server/server
+cmd/client_get/client_get
+cmd/client_set/client_set
+cmd/checkconfig/checkconfig
+
+go.sum
+
+._*
+.DS_Store
